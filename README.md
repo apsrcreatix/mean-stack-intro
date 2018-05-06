@@ -1,10 +1,10 @@
 # MEAN
 
-## MEAN stack implementation example for beginners
+ MEAN stack implementation example for beginners
 
 ## Definitions And Informations for terms we used during the learning period
 
-### What is MEAN '?'
+### What is MEAN
 
 * M : MongoDB (Database)
 * E : Express (Framework based on NodeJs)
@@ -23,3 +23,8 @@
 * RE : REpresentational
 * S : State
 * T : Transfer
+
+## Things you need to install (use google :smirk:)
+
+* NodeJs
+* MongoDB
